@@ -1,0 +1,92 @@
+# Blender MTL File: 'None'
+# Material Count: 8
+
+newmtl Jill_31_Blonde_Nude:Eyebrow006:eyebrow006
+Ns 500.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\\Users\\clickey\\Documents\\makehuman\\v1\\models\\Jill\\caucasian\\Nude\\textures\\eyebrow006.png
+map_d C:\\Users\\clickey\\Documents\\makehuman\\v1\\models\\Jill\\caucasian\\Nude\\textures\\eyebrow006.png
+
+newmtl Jill_31_Blonde_Nude:Low-Poly:eyegreen
+Ns 990.196078
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\\Users\\clickey\\Documents\\makehuman\\v1\\models\\Jill\\caucasian\\Nude\\textures\\green_eye.png
+map_d C:\\Users\\clickey\\Documents\\makehuman\\v1\\models\\Jill\\caucasian\\Nude\\textures\\green_eye.png
+
+newmtl Jill_31_Blonde_Nude:Skin
+Ns 500.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.062750 0.050980 0.050980
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\\Users\\clickey\\Documents\\makehuman\\v1\\models\\Jill\\caucasian\\Nude\\textures\\young_lightskinned_female_diffuse.png
+map_d C:\\Users\\clickey\\Documents\\makehuman\\v1\\models\\Jill\\caucasian\\Nude\\textures\\young_lightskinned_female_diffuse.png
+
+newmtl Jill_31_Blonde_Nude:Teeth_Shape05:teethMaterial
+Ns 800.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.854900 0.854900 0.854900
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\\Users\\clickey\\Documents\\makehuman\\v1\\models\\Jill\\caucasian\\Nude\\textures\\teeth.png
+map_d C:\\Users\\clickey\\Documents\\makehuman\\v1\\models\\Jill\\caucasian\\Nude\\textures\\teeth.png
+
+newmtl Jill_31_Blonde_Nude:eyelashes03:bodyMaterial
+Ns 500.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\\Users\\clickey\\Documents\\makehuman\\v1\\models\\Jill\\caucasian\\Nude\\textures\\eyelashes03.png
+map_d C:\\Users\\clickey\\Documents\\makehuman\\v1\\models\\Jill\\caucasian\\Nude\\textures\\eyelashes03.png
+
+newmtl Jill_31_Blonde_Nude:fhair01:female01Material
+Ns 500.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Bump C:\\Users\\clickey\\Documents\\makehuman\\v1\\models\\Jill\\caucasian\\Nude\\textures\\normals.png
+map_Kd C:\\Users\\clickey\\Documents\\makehuman\\v1\\models\\Jill\\caucasian\\Nude\\textures\\diffuse_blonde.png
+map_d C:\\Users\\clickey\\Documents\\makehuman\\v1\\models\\Jill\\caucasian\\Nude\\textures\\diffuse_blonde.png
+
+newmtl Jill_31_Blonde_Nude:tongue01:tongue01Material
+Ns 194.117647
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.031370 0.031370 0.031370
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\\Users\\clickey\\Documents\\makehuman\\v1\\models\\Jill\\caucasian\\Nude\\textures\\tongue01_diffuse.png
+map_d C:\\Users\\clickey\\Documents\\makehuman\\v1\\models\\Jill\\caucasian\\Nude\\textures\\tongue01_diffuse.png
+
+newmtl Jill_31_Blonde_Nude:vag01:vag01_caucasian
+Ns 500.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.027450 0.027450 0.027450
+Ni 1.000000
+d 0.000000
+illum 2
+map_Bump C:\\Users\\clickey\\Documents\\makehuman\\v1\\models\\Jill\\caucasian\\Nude\\textures\\vag01_normals.png
+map_Kd C:\\Users\\clickey\\Documents\\makehuman\\v1\\models\\Jill\\caucasian\\Nude\\textures\\vag01_lightskinned_diffuse.png
+map_d C:\\Users\\clickey\\Documents\\makehuman\\v1\\models\\Jill\\caucasian\\Nude\\textures\\vag01_lightskinned_diffuse.png
